@@ -1,0 +1,2 @@
+Java streams make file processing concise.
+Count these words.
